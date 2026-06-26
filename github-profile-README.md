@@ -40,7 +40,8 @@ Connects users with trusted professionals nearby. Type a request in **English, F
 - Explainable scoring: separate provider-quality "Qrib Score" and request-relevance "Match Score"
 
 **Stack:** Angular 21 (Signals + SSR on Cloudflare Workers) · NestJS · PostgreSQL/PostGIS · Prisma · Google Gemini · Docker
-🔗 *[Live demo →](#)*  ·  *[Screenshots →](#)*
+🔗 *[Live demo →](https://qrib-lik-demo.vercel.app/)*  ·  *[Screenshots →](<img width="1517" height="942" alt="image" src="https://github.com/user-attachments/assets/82a5bc94-63ef-4122-8160-ce53bbd99b93" />
+)*
 
 ---
 
@@ -48,7 +49,6 @@ Connects users with trusted professionals nearby. Type a request in **English, F
 Full-stack app for managing council meetings, minutes, tasks, documents, and contacts. Arabic RTL interface, role-based permissions, deployed to the cloud.
 
 **Stack:** Next.js 16 · React 19 · TypeScript · Laravel · PostgreSQL · Docker · Nginx · Fly.io + Vercel
-🔗 *[Live demo →](#)*
 
 ---
 
